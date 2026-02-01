@@ -38,9 +38,6 @@ O algoritmo identificou 4 perfis distintos de consumidores:
 | **Novos / Promissores 🌱** | Baixa Recência (compraram agora), mas só 1 vez. | Ofertas de *Cross-sell* para incentivar a 2ª compra rápido. |
 | **Perdidos (Churn) 💤** | Alta Recência (não compram há muito tempo). | Ofertas agressivas de recuperação ou limpeza da base. |
 
-### Visualização dos Grupos
-*(Se você subiu a imagem, edite o nome do arquivo abaixo)*
-![Distribuição dos Clientes](grafico_rfm.png)
 
 ## 🛠️ Tecnologias
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
@@ -52,4 +49,4 @@ O algoritmo identificou 4 perfis distintos de consumidores:
 3. Execute o notebook `Segmentacao_Clientes_Olist.ipynb`.
 
 ---
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **Matheus Henrique Lopes de Mello**
