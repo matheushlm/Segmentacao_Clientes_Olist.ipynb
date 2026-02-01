@@ -1,2 +1,2 @@
-# Segmentacao_Clientes_Olist.ipynb
+# Segmentacao_Clientes_Olist
 "Clusterização de clientes e Análise RFM usando K-Means
